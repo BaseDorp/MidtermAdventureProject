@@ -1,0 +1,7 @@
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\bin\Debug\MidtermAdventureGame.exe.config
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\bin\Debug\MidtermAdventureGame.exe
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\bin\Debug\MidtermAdventureGame.pdb
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\obj\Debug\MidtermAdventureGame.csprojAssemblyReference.cache
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\obj\Debug\MidtermAdventureGame.csproj.CoreCompileInputs.cache
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\obj\Debug\MidtermAdventureGame.exe
+D:\C#Projects\MidtermAdventureGame\MidtermAdventureGame\obj\Debug\MidtermAdventureGame.pdb
